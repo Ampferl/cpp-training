@@ -24,6 +24,6 @@
 - [X] Quick Sort
 #### Search
 - [X] Linear Search
-- [ ] Binary Search
+- [X] Binary Search
 - [ ] Depth-First Search
 - [ ] Binary Search Tree
