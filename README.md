@@ -5,6 +5,7 @@
 - [X] Queue
 - [X] Graph
 - [X] Binary Tree
-- [ ] Hash Table
+- [X] Hash Table
 ## Other Challanges
 - [X] Fibonacci 
+- [X] Adding Matrices
