@@ -23,7 +23,7 @@
 - [X] Merge Sort
 - [X] Quick Sort
 #### Search
-- [ ] Binary Search Tree
-- [ ] Linear Search
+- [X] Linear Search
 - [ ] Binary Search
 - [ ] Depth-First Search
+- [ ] Binary Search Tree
