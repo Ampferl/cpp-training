@@ -25,5 +25,5 @@
 #### Search
 - [X] Linear Search
 - [X] Binary Search
-- [ ] Depth-First Search
+- [X] Depth-First Search
 - [ ] Binary Search Tree
