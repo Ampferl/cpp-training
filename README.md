@@ -8,4 +8,7 @@
 - [X] Hash Table
 ## Other Challanges
 - [X] Fibonacci 
+### Matrices
 - [X] Adding Matrices
+- [X] Transpose Matrices
+- [ ] Multiply Matrices
