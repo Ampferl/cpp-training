@@ -19,7 +19,7 @@
 #### Sorting
 - [X] Bubble Sort
 - [X] Selection Sort
-- [ ] Insertion Sort
+- [X] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 #### Search
