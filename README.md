@@ -26,4 +26,4 @@
 - [X] Linear Search
 - [X] Binary Search
 - [X] Depth-First Search
-- [ ] Binary Search Tree
+- [X] Binary Search Tree
