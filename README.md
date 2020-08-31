@@ -21,7 +21,7 @@
 - [X] Selection Sort
 - [X] Insertion Sort
 - [X] Merge Sort
-- [ ] Quick Sort
+- [X] Quick Sort
 #### Search
 - [ ] Binary Search Tree
 - [ ] Linear Search
