@@ -11,4 +11,4 @@
 ### Matrices
 - [X] Adding Matrices
 - [X] Transpose Matrices
-- [ ] Multiply Matrices
+- [X] Multiply Matrices
