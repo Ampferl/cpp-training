@@ -20,7 +20,7 @@
 - [X] Bubble Sort
 - [X] Selection Sort
 - [X] Insertion Sort
-- [ ] Merge Sort
+- [X] Merge Sort
 - [ ] Quick Sort
 #### Search
 - [ ] Binary Search Tree
