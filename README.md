@@ -17,7 +17,7 @@
 
 ### Algorithms
 #### Sorting
-- [ ] Bubble Sort
+- [X] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
