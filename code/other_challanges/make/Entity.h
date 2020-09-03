@@ -11,6 +11,7 @@ class Entity{
         Entity(string n, int l);
         void attack(int l);
         int getLife();
+        string getName();
         void printData();
 };
 

@@ -13,7 +13,11 @@ int Entity::getLife(){
     return this->life;
 }
 
+string Entity::getName(){
+    return this->name;
+}
+
 void Entity::printData(){
-    cout << "Name: " << this->name << endl;
-    cout << "Life: " << this->life << endl;
+    cout << "Name: " << Entity::getName() << endl;
+    cout << "Life: " << Entity::getLife() << endl;
 }
