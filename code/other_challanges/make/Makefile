@@ -14,4 +14,4 @@ Entity.o: Entity.cpp Entity.h
 	${CC} -c Entity.cpp
 
 clean:
-	-rm main
+	-rm main *.o
